@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="TabName">
+        <item>Industry</item>
+        <item>Finance</item>
+        <item>Top Stories</item>
+        <item>Celebrity</item>
+        <item>Stocks</item>
+    </string-array>
+</resources>

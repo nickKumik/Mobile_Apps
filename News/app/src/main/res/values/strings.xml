@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="Top1">UK faces record two-year recession, Bank warns</string>
+    <string name="Top2">UK interest rates: How will the rise affect you and how high could it go?</string>
+    <string name="Top3">Russian commanders discussed using nuclear arms in Ukraine, says US</string>
+    <string name="Top4">Covid: Boris Johnson WhatsApp messages requested by inquiry</string>
+    <string name="Top5">Twitter to lose magic with blue tick fee, says ex exec</string>
+    <string name="Rec1">Suella Braverman facing legal action over Manston children safety</string>
+    <string name="Rec2">Imran Khan: Pakistan ex-prime minister wounded at protest march</string>
+    <string name="Rec3">Kilimanjaro\'s and Africa\'s last glaciers to go by 2050, says UN</string>
+    <string name="Rec4">Bounty bars removed from Celebrations tubs in trial</string>
+    <string name="Rec5">What is a recession and how could it affect me?</string>
+    <string name="kimi">Kimi </string>
+    <string name="drivers">Team Lineup </string>
+    <string name="gio">Antonio Giovinazzi</string>
+    <string name="alfa_info">Italian motor manufacturer Alfa Romeo has participated many times in Formula One. It currently participates as Alfa Romeo Racing while being operated by Sauber Motorsport AG. The brand has competed in motor racing as both a constructor and engine supplier sporadically between 1950 and 1987, and later as a commercial partner since 2015. The company\'s works drivers won the first two World Drivers\' Championships in the pre-war Alfetta: Nino Farina in 1950; and Juan Manuel Fangio in 1951. Following these successes Alfa Romeo withdrew from Formula One.</string>
+    <string name="msg">are the best!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_article">Article_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
